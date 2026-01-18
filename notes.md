@@ -1,0 +1,4 @@
+# Notes
+
+This file contains short observations and thoughts
+collected during ongoing work on this project.
