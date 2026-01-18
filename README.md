@@ -12,5 +12,7 @@ while exploring software tools, workflows, and development concepts.
 - Practiced keeping notes concise and readable
 - Observed how regular updates create a clear project timeline
 - - Learned the value of documenting thoughts while working
+  - - Noted how simple text files can track long-term progress
+
 
 
