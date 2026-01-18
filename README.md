@@ -16,6 +16,8 @@ while exploring software tools, workflows, and development concepts.
     - - Improved understanding of maintaining a clean repository history
 - Reflected on how consistency helps with personal projects
 - - Practiced writing brief but meaningful project notes
+  - - Observed how incremental updates reduce confusion later
+
 
 
 
