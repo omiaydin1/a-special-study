@@ -10,4 +10,5 @@ while exploring software tools, workflows, and development concepts.
 - Realized that simple documentation helps track learning
 - Explored how small changes improve documentation clarity
 - Practiced keeping notes concise and readable
+- Observed how regular updates create a clear project timeline
 
