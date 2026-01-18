@@ -17,6 +17,8 @@ while exploring software tools, workflows, and development concepts.
 - Reflected on how consistency helps with personal projects
 - - Practiced writing brief but meaningful project notes
   - - Observed how incremental updates reduce confusion later
+    - - Learned that documentation evolves alongside the project
+
 
 
 
