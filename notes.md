@@ -9,6 +9,8 @@ collected during ongoing work on this project.
   - - Writing brief observations helps clarify thinking
     - - Not every note needs to be detailed to be useful
       - - Small reminders can save time later in the process
+        - - Separating notes from documentation feels more organized
+
 
 
 
