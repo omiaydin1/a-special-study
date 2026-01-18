@@ -12,6 +12,8 @@ collected during ongoing work on this project.
         - - Separating notes from documentation feels more organized
   - Quick notes capture thoughts before they are forgotten
 - This file works well as an informal scratchpad
+- - Short notes reduce the pressure to write perfect explanations
+
 
 
 
