@@ -10,6 +10,8 @@ collected during ongoing work on this project.
     - - Not every note needs to be detailed to be useful
       - - Small reminders can save time later in the process
         - - Separating notes from documentation feels more organized
+  - Quick notes capture thoughts before they are forgotten
+
 
 
 
