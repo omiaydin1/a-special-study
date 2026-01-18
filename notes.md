@@ -11,6 +11,7 @@ collected during ongoing work on this project.
       - - Small reminders can save time later in the process
         - - Separating notes from documentation feels more organized
   - Quick notes capture thoughts before they are forgotten
+- This file works well as an informal scratchpad
 
 
 
