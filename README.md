@@ -8,4 +8,5 @@ while exploring software tools, workflows, and development concepts.
 - Noticed how commit history shows progress over time
 - Learned that consistent updates make a project easier to follow
 - Realized that simple documentation helps track learning
+- Explored how small changes improve documentation clarity
 
