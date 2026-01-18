@@ -15,6 +15,8 @@ while exploring software tools, workflows, and development concepts.
   - - Noted how simple text files can track long-term progress
     - - Improved understanding of maintaining a clean repository history
 - Reflected on how consistency helps with personal projects
+- - Practiced writing brief but meaningful project notes
+
 
 
 
