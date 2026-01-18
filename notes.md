@@ -13,6 +13,8 @@ collected during ongoing work on this project.
   - Quick notes capture thoughts before they are forgotten
 - This file works well as an informal scratchpad
 - - Short notes reduce the pressure to write perfect explanations
+  - - Incremental notes reflect how ideas evolve over time
+
 
 
 
