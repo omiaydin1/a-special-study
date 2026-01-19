@@ -7,6 +7,8 @@ collected during ongoing work on this project.
 - Keeping a separate notes file feels more flexible
 - - Keeping lightweight notes makes it easier to revisit ideas
   - - Writing brief observations helps clarify thinking
+    - - Clear notes reduce the need to rely on memory
+
     - - Not every note needs to be detailed to be useful
       - - Small reminders can save time later in the process
         - - Separating notes from documentation feels more organized
