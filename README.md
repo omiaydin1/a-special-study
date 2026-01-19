@@ -30,6 +30,9 @@ while exploring software tools, workflows, and development concepts.
         - - Small improvements add up over time
          
           - - Regular documentation helps maintain continuity
+           
+          - - Brief notes are easier to maintain consistently
+
 
 
 
