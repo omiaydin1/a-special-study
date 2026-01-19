@@ -1,3 +1,4 @@
+- Keeping documentation minimal lowers maintenance effort
 
 
 - Keeping documentation minimal lowers maintenance effort
