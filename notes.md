@@ -1,3 +1,6 @@
+
+
+- Keeping documentation minimal lowers maintenance effort
 # Notes
 
 This file contains short observations and thoughts
