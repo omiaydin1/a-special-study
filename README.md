@@ -28,6 +28,9 @@ while exploring software tools, workflows, and development concepts.
       - - Writing things down creates a clearer thought process
        
         - - Small improvements add up over time
+         
+          - - Regular documentation helps maintain continuity
+
 
 
 
