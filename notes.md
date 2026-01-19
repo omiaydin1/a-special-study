@@ -1,3 +1,4 @@
+- Short entries make it easier to stay consistent
 - Keeping documentation minimal lowers maintenance effort
 
 
