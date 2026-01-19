@@ -17,6 +17,9 @@ collected during ongoing work on this project.
     - - Maintaining notes consistently builds a useful reference
      
     - - Notes help capture context that might otherwise be lost
+     
+    - - Writing regularly builds a steady workflow habit
+
 
 
 
