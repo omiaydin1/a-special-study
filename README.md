@@ -21,6 +21,9 @@ while exploring software tools, workflows, and development concepts.
     - - Learned that documentation evolves alongside the project
      
     - - Noticed how regular updates make progress easier to review
+     
+    - - Keeping changes small helps avoid confusion later
+
 
 
 
