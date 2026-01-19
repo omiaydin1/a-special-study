@@ -1,3 +1,4 @@
+- Simple wording makes notes faster to write and read
 # Learning Notes
 
 This repository contains short daily notes and observations
