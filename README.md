@@ -1,3 +1,4 @@
+- Writing things down creates a clearer thought process
 - Simple wording makes notes faster to write and read
 # Learning Notes
 
@@ -24,6 +25,8 @@ while exploring software tools, workflows, and development concepts.
     - - Noticed how regular updates make progress easier to review
      
     - - Keeping changes small helps avoid confusion later
+      - - Writing things down creates a clearer thought process
+
 
 
 
