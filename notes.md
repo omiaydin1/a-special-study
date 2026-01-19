@@ -1,3 +1,4 @@
+- Maintaining this habit supports better organization
 - Regular notes make long-term progress more visible
 - Documenting small steps improves overall clarity
 - Documenting small steps improves overall clarity
