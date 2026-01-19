@@ -15,6 +15,9 @@ collected during ongoing work on this project.
 - - Short notes reduce the pressure to write perfect explanations
   - - Incremental notes reflect how ideas evolve over time
     - - Maintaining notes consistently builds a useful reference
+     
+    - - Notes help capture context that might otherwise be lost
+
 
 
 
