@@ -1,3 +1,4 @@
+- Regular notes make long-term progress more visible
 - Documenting small steps improves overall clarity
 - Documenting small steps improves overall clarity
 - Short entries make it easier to stay consistent
