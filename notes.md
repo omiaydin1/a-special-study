@@ -25,6 +25,8 @@ collected during ongoing work on this project.
 
 - This file serves as a simple record of ongoing work
 
+- Consistent updates help reveal patterns over time
+
 
 
 
