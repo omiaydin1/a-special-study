@@ -26,6 +26,9 @@ while exploring software tools, workflows, and development concepts.
      
     - - Keeping changes small helps avoid confusion later
       - - Writing things down creates a clearer thought process
+       
+        - - Small improvements add up over time
+
 
 
 
