@@ -32,6 +32,9 @@ while exploring software tools, workflows, and development concepts.
           - - Regular documentation helps maintain continuity
            
           - - Brief notes are easier to maintain consistently
+           
+  - This approach keeps the project lightweight and flexible
+
 
 
 
