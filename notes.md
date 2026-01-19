@@ -23,6 +23,8 @@ collected during ongoing work on this project.
 
     - - Writing regularly builds a steady workflow habit
 
+- This file serves as a simple record of ongoing work
+
 
 
 
