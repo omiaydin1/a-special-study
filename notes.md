@@ -17,7 +17,8 @@ collected during ongoing work on this project.
     - - Maintaining notes consistently builds a useful reference
      
     - - Notes help capture context that might otherwise be lost
-     
+     - Clear notes reduce the need to rely on memory
+
     - - Writing regularly builds a steady workflow habit
 
 
