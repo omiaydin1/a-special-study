@@ -19,6 +19,9 @@ while exploring software tools, workflows, and development concepts.
 - - Practiced writing brief but meaningful project notes
   - - Observed how incremental updates reduce confusion later
     - - Learned that documentation evolves alongside the project
+     
+    - - Noticed how regular updates make progress easier to review
+
 
 
 
