@@ -1,4 +1,5 @@
 - Documenting small steps improves overall clarity
+- Documenting small steps improves overall clarity
 - Short entries make it easier to stay consistent
 - Keeping documentation minimal lowers maintenance effort
 
