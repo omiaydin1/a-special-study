@@ -37,7 +37,7 @@ while exploring software tools, workflows, and development concepts.
 
   - This approach keeps the project lightweight and flexible
   - - Tracking progress daily builds a useful history
-
+- Noticed how commit history shows progress over time
 
 
 
