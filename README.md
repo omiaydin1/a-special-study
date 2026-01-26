@@ -41,6 +41,7 @@ while exploring software tools, workflows, and development concepts.
     -     - - Learned that documentation evolves alongside the project
 
 - Noticed how commit history shows progress over time
+  based
 
 
 
