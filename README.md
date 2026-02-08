@@ -1,5 +1,4 @@
 
-
 - Writing things down creates a clearer thought process
 - Simple wording makes notes faster to write and read
 # Learning Notes
